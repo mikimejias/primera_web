@@ -1,6 +1,29 @@
+body
+{
+	font-family: 'Lato', sans-serif;
+}
 img
 {
 	max-width: 100%;
+}
+
+a
+{
+	color: #009FFF;
+}
+
+.espacio-arriba
+{
+	margin-top: 5em;
+}
+
+.espacio-derecha
+{
+	margin-right: 1em;
+}
+.pacifico
+{
+	font-family: 'Pacifico', cursive;
 }
 
 .quitar-float
@@ -8,7 +31,33 @@ img
 	float: none;
 }
 
-.espacio-arriba
+.grande
 {
-	margin-top: 100px;
+	font-size: 3em;
+}
+
+/** COLORES **/
+.verde-1
+{
+	color: #00887C;
+}
+
+.verde-2
+{
+	color: #00833D;
+}
+
+.verde-3
+{
+	color: #93BD2C;
+}
+
+.azul
+{
+	color: #009FFF;
+}
+
+.amarillo
+{
+	color: #EDDE05;
 }
