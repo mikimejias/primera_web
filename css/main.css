@@ -33,6 +33,12 @@ a
 	display: inline-block;
 	margin-right: -4px;
 }
+
+.mediano
+{
+	font-size: 1.5em;
+}
+
 .no-lista
 {
 	margin: 0px;
