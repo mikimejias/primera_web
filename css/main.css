@@ -21,19 +21,46 @@ a
 {
 	margin-right: 1em;
 }
+
+.grande
+{
+	font-size: 3em;
+}
+
+.inline-block
+{
+	float: none;
+	display: inline-block;
+}
+.no-lista
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.no-lista li
+{
+	list-style-type: none;
+}
+
 .pacifico
 {
 	font-family: 'Pacifico', cursive;
 }
 
+.padding-largo
+{
+	padding: 5px 10px;
+}
+
+.se-gris
+{
+	background-color: #eee;
+}
+
 .quitar-float
 {
 	float: none;
-}
-
-.grande
-{
-	font-size: 3em;
 }
 
 /** COLORES **/
