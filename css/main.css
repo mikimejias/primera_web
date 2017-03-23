@@ -31,6 +31,7 @@ a
 {
 	float: none;
 	display: inline-block;
+	margin-right: -4px;
 }
 .no-lista
 {
@@ -61,6 +62,11 @@ a
 .quitar-float
 {
 	float: none;
+}
+
+.vete-arriba
+{
+	vertical-align: top;
 }
 
 /** COLORES **/
