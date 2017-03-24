@@ -100,3 +100,18 @@ a
 {
 	color: #EDDE05;
 }
+
+/** ANIMACIONES **/
+.retraso-1
+{
+	-webkit-animation-delay: 1s !important;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s !important;
+}
+
+.retraso-2
+{
+	-webkit-animation-delay: 2s !important;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s !important;
+}
